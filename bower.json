@@ -7,6 +7,9 @@
   "description": "Criando Web Components",
   "main": "index.html",
   "license": "MIT",
+  "keywords": [
+    "web-components",
+  ],
   "dependencies": {
     "polymer": "Polymer/polymer#~0.3.3"
   }
